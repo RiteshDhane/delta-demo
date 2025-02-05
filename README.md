@@ -1,2 +1,2 @@
 # delta-demo
-Git and Github study
+Git and Github study.
